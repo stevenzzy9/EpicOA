@@ -21,7 +21,7 @@ public class Bingo {
         };
         int called[] = {1, 2, 3, 4, 73, 82, 91, 5, 6, 7, 8, 9, 10};
         
-        checkMingo(matrix,called);
+        //checkMingo(matrix,called);
 
 	}
 	private static ArrayList<Integer> getRow(int[][] Matrix,int index){
